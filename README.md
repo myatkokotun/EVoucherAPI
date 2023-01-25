@@ -6,6 +6,8 @@ Firstly, need to call Login api to get token and that token is used to call othe
 
 ## API Reference
 
+Base URL "http://localhost:5127/"
+
 #### Login
 
 ```http
